@@ -1,5 +1,5 @@
 Local ['en'] = {
-    ['notenough_work'] = 'You need at least ~ b ~% s $ ~ s ~ dirty money to launder',
+    ['notenough_work'] = 'You need at least ~b~%s$~s~ dirty money to launder',
     ['notenough_black'] = 'you dont have enough dirty money',
     ['no_wash'] = 'I dont know what you are talking about',
     ['wash_amount'] = 'Here is your money: ~b~%s$~s~',
